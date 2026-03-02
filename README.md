@@ -83,9 +83,8 @@ Currently focused on:
 ## 📚 Education  
 
 **B.S. Mechanical Engineering (Honors)**  
-University of Texas at Austin  
-Graduating Early (Class of 2027)  
-4.0 GPA  
+University of Texas at Austin  - May 2027  
+GPA: 4.0
 
 Relevant Coursework:
 - Materials Engineering
