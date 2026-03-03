@@ -2,7 +2,7 @@
 
 🎓 Mechanical Engineering Honors Student at The University of Texas at Austin  
 🤖 Interested in Robotics, Control Systems, and Physical Human-Robot Interaction (pHRI)  
-📍 Austin, TX  
+📍 Austin & Houston, TX  
 
 ---
 
