@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 
 I'm a mechanical engineering student passionate about robotics and intelligent systems.  
-I enjoy building projects that combine hardware and software — especially CAD design, embedded systems, and computational engineering tools.
+I enjoy building projects that combine hardware and software, especially in CAD design, embedded systems, and computational engineering.
 
 Currently focused on:
 - Robotics & control systems
