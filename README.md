@@ -37,7 +37,8 @@ Currently focused on:
 
 ### 🤖 Hardware & Embedded Systems
 - Arduino (sensor integration & prototyping)  
-- HC-SR04 Ultrasonic Sensor  
+- HC-SR04 Ultrasonic Sensors
+- MG996R Servo Motors & NEMA 17 Stepper Motors
 - Breadboarding & circuit debugging  
 
 ---
