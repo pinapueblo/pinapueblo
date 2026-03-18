@@ -64,13 +64,6 @@ Currently focused on:
 
 ---
 
-### 📐 Formula Reference Website  
-- Structured mathematical reference tool  
-- Organized formulas by category for fast lookup  
-- Designed for scalability and clarity  
-
----
-
 ## 🏆 Awards & Recognition  
 
 - HSF Scholar
