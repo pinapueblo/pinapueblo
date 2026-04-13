@@ -45,22 +45,31 @@ Currently focused on:
 
 ## 📌 Featured Projects  
 
-### ♟️ Custom 3D Printed Chess Set + Integrated Timer  
-- Designed and CADed a full chess set from scratch  
-- 3D printed all pieces  
-- Designing enclosure for embedded Arduino timer system  
-- Integrating electronics with structural housing  
+### 🕹️ 3-axis motion arcade claw machine
+- Designed & prototyped 3-axis motion claw machine using stepper motors (x–y) and a servo-driven winch (z)
+- CADed & 3D printed grippers
+- Designing enclosure for embedded Arduino & joystick
+- Integrating electronics with structural housing
 
-**Skills:** CAD modeling, embedded systems, rapid prototyping  
+**Skills:** CAD modeling, Arduino, embedded systems
 
 ---
+### ✈️ 3 ft RC Plane
+- Fabricated 4 3ft long fuselages using hybrid composites
+- Carbon fiber and kevlar spars
+- Epoxy & CA adhesives
+- Brushless DC motor propulsion system
+- LiPo battery power system
 
+**Skills:** CAD, composites manufacturing, laser cutting, embedded systems
+
+---
 ### 🤖 1 lb Combat Robot  
 - Designed a 4-inch PLA attacker arm  
 - Performed FEA to analyze stress distribution  
 - Optimized geometry for torque-to-weight performance  
 
-**Skills:** SolidWorks Simulation, structural analysis, design iteration  
+**Skills:** FEA & GD&T, CAD, 3D printing, embedded systems
 
 ---
 
