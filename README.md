@@ -15,7 +15,7 @@ Currently focused on:
 - Robotics & control systems
 - Embedded systems development
 - Computational engineering
-- Building portfolio-ready technical projects
+- Working on arcade claw machine project
 - Preparing for graduate school in robotics
 
 ---
