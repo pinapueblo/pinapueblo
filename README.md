@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pablo Peña  
 
-🎓 Mechanical Engineering & Robotics Minor Honors Student at The University of Texas at Austin  
+🎓 Mechanical Engineering & Robotics Minor | Honors Student at The University of Texas at Austin  
 🤖 Interested in Robotics, Control Systems, and Physical Human-Robot Interaction (pHRI)  
 📍 Austin & Houston, TX  
 
