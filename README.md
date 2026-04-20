@@ -76,7 +76,7 @@ Currently focused on:
 ## 🏆 Awards & Recognition  
 
 - HSF Scholar
-- Engineering Honors
+- Distinguished Honors Scholar
 - Tau Beta Pi Engineering Honor Society
 - 6th Place Internationally in AIAA DBF Competition
 - AIME Qualifier (AMC 12A Top 10%)  
