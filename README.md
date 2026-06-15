@@ -12,10 +12,9 @@ I'm a mechanical engineering student passionate about robotics and intelligent s
 I enjoy building projects that combine hardware and software, especially in CAD design, embedded systems, and computational engineering.
 
 Currently focused on:
-- Robotics & control systems
+- Engineering intern @ BlackPearl Technology
 - Embedded systems development
 - Computational engineering
-- Working on arcade claw machine project
 - Preparing for graduate school in robotics
 
 ---
@@ -75,7 +74,7 @@ Currently focused on:
 
 ## 🏆 Awards & Recognition  
 
-- HSF Scholar
+- HSF Scholar (2x)
 - Distinguished Honors Scholar (Top 4% of class)
 - Tau Beta Pi Engineering Honor Society
 - 6th Place Internationally in AIAA DBF Competition
