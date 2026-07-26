@@ -12,7 +12,7 @@ I'm a mechanical engineering student passionate about robotics and intelligent s
 I enjoy building projects that combine hardware and software, especially in CAD design, embedded systems, and computational engineering.
 
 Currently focused on:
-- Engineering intern @ BlackPearl Technology
+- Mechanical Engineering intern @ BlackPearl Technology
 - Embedded systems development
 - Computational engineering
 - Preparing for graduate school in robotics
