@@ -43,7 +43,7 @@ Currently focused on:
 ---
 
 ## 📌 Featured Projects  
----
+
 ### ✈️ 3 ft RC Plane
 - Fabricated 4 3ft long fuselages using hybrid composites
 - Carbon fiber and kevlar spars
