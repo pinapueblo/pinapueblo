@@ -43,15 +43,6 @@ Currently focused on:
 ---
 
 ## 📌 Featured Projects  
-
-### 🕹️ 3-axis motion arcade claw machine
-- Designed & prototyped 3-axis motion claw machine using stepper motors (x–y) and a servo-driven winch (z)
-- CADed & 3D printed grippers
-- Designing enclosure for embedded Arduino & joystick
-- Integrating electronics with structural housing
-
-**Skills:** CAD modeling, Arduino, embedded systems
-
 ---
 ### ✈️ 3 ft RC Plane
 - Fabricated 4 3ft long fuselages using hybrid composites
