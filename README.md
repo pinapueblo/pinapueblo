@@ -76,7 +76,7 @@ Currently focused on:
 ## 📚 Education  
 
 **B.S. Mechanical Engineering (Honors) + Minor in Robotics**  
-University of Texas at Austin  - May 2027  
+University of Texas at Austin  - Fall 2027  
 GPA: 4.0
 
 Relevant Coursework:
