@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Pablo Peña  
 
-🎓 Mechanical Engineering & Robotics Minor | Honors Student at The University of Texas at Austin | Prev @ BlackPearl Technology
+🎓 Mechanical Engineering & Robotics Minor | Honors Student at The University of Texas at Austin
+📚 Electrocatalysis & nanomaterials research @ Yu Research Group | Prev @ BlackPearl Technology
 🤖 Interested in Robotics, Control Systems, and Physical Human-Robot Interaction (pHRI)  
 📍 Austin & Houston, TX  
 
@@ -12,6 +13,7 @@ I'm a mechanical engineering student passionate about robotics and intelligent s
 I enjoy building projects that combine hardware and software, especially in CAD design, embedded systems, and computational engineering.
 
 Currently focused on:
+- Electrocatalysis & nanomaterials research
 - Embedded systems development
 - Computational engineering
 
