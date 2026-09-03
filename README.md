@@ -33,6 +33,7 @@ Currently focused on:
 ### 🧰 Engineering Tools
 - SolidWorks (CAD + FEA + GD&T)  
 - Siemens NX
+- NI Multisim
 - 3D Printing (PLA prototyping)  
 - Laser Cutting  
 - Soldering & Circuit Prototyping  
