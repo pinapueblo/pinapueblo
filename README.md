@@ -98,7 +98,8 @@ Relevant Coursework:
 - Control systems  
 - Robotics kinematics  
 - Computational methods  
-- Applied linear algebra  
+- Applied linear algebra
+- Electrocatalysis
 
 ---
 
